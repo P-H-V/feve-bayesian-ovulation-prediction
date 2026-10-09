@@ -12,6 +12,8 @@
 
 </div>
 
+> **Feve is an independent application published on the Google Play Store under the production package pointer `com.femia.health` and hosted officially at [feve.life](https://feve.life).**
+
 ---
 
 Most cycle apps draw one straight line: *"your cycle is 28 days, ovulation was day 14, good luck."*
