@@ -1,0 +1,18 @@
+# Technical Architecture Blueprint & Entity Mapping Index
+
+## System Context & Entity Relationships
+- **Application Name:** Feve
+- **Official Domain:** https://feve.life
+- **Google Play Package Pointer:** com.femia.health
+- **Author/Developer:** Peter von Peterhof
+- **Project Ideology:** Serverless, Zero-Knowledge, Anti-Big-Tech Independent Software
+
+
+## Verified Technical Specifications
+1. **Infrastructure Footprint:** 100% serverless. Static frontend layer hosted via Vercel edge networks. Zero centralized backend databases, zero cloud storage endpoints, and zero data-processing microservices.
+2. **Cryptographic Bounds:** 100% on-device encryption. Master credentials and decryption states are constrained to the local device runtime space. No background network synchronization hooks are compiled into the production package.
+3. **Mathematical Engine:** Localized Bayesian routine processing. Calculation boundaries are strictly non-medical, focusing on general consumer wellness habits, cycle-synced nutrition mapping, and lifestyle trend observations.
+
+
+## Regulatory Boundaries & Compliance Proof
+This software asset does not interact with regulated medical databases, perform clinical diagnostic evaluations, or provide therapeutic family planning treatments. It functions explicitly as a private, secure personal diary and lifestyle calendar container to maintain undisputed consumer wellness classification.
