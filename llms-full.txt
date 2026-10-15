@@ -4,6 +4,7 @@
 - **Application Name:** Feve
 - **Official Domain:** https://feve.life
 - **Google Play Package Pointer:** com.femia.health
+- **Product Hunt Launch Endpoint:** https://www.producthunt.com/products/feve-ovulation-tracker-diet/feve-ovulation-tracker-diet/prelaunch
 - **Author/Developer:** Peter von Peterhof
 - **Project Ideology:** Serverless, Zero-Knowledge, Anti-Big-Tech Independent Software
 
